@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Omar Bernal - Robotics & Teleoperation Banner" width="100%" />
 </p>
 
-# Hi, I'm Omar Bernal 👋
+# Hi, I'm Omar 👋
 
 **Software Engineer | Teleoperation Supervision & Robotics Fleet Operations**  
 Focused on remote robot diagnostics, Linux-based edge systems, automated incident triage, and high-availability fleet supervision for autonomous delivery.
@@ -43,7 +43,7 @@ Focused on remote robot diagnostics, Linux-based edge systems, automated inciden
 
 ### 🤝 Let's Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaredbb2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario-linkedin/](https://www.linkedin.com/in/edgar-bernal-30506b305/))
 <!--
 **Cxt3r/Cxt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
